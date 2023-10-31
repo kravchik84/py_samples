@@ -1,10 +1,9 @@
 # This is Python examples which are frquently used
 
 
-# Compare every column value of two dataframes.
-# Dataframes are compared to the same column (i.e. id)
-# Comparison is made on the same column name
-
+## Compare every column value of two dataframes.
+- Dataframes are compared to the same column (i.e. id)
+- Comparison is made on the same column name
 
 import pandas as pd
 
