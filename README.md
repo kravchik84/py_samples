@@ -1,4 +1,6 @@
-# This is Python examples which are frquently used
+# These are Python examples which are frquently used
+
+
 
 
 ## Compare every column value of two dataframes.
